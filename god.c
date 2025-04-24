@@ -1,5 +1,5 @@
 /**
- * god.c - A conceptual representation of God with eschatology
+ * god.c - A conceptual representation of God
  * 
  * This is a metaphorical programming exercise attempting to represent
  * theological concepts of God using C code structures and functions,
